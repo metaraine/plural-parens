@@ -1,6 +1,6 @@
 {
   "name": "plural-parens",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Pluralize all words in a sentence that have the parenthesized plural indicator suffix (s).",
   "license": "ISC",
   "repository": "https://github.com/metaraine/plural-parens",
